@@ -34,7 +34,7 @@
     font-weight: 400;
 }
 .lastname{
-    color: crimson;
+    color: aqua;
     padding-left: 4px;
 }
 .navigation{
@@ -54,7 +54,7 @@
     text-transform: capitalize;
 }
 .navigation>li>a:hover{
-    color: crimson;
+    color: aqua;
     transition: all .3s ease-in-out
 
 }
@@ -72,7 +72,7 @@
 }
 
 .active{
-    background-color: crimson;
+    background-color: #2bbad7;
     color: white;
     padding: 15px;
 }
